@@ -31,4 +31,4 @@ Kahatsa resuelve esto mediante un enfoque de diseño minimalista, directo y de a
 * **JSON:** Para la persistencia ligera de datos locales[cite: 1, 2].
 
 ---
-Desarrollado por **Joshua Quintana Salvatierra (Zapoide)**[cite: 1, 2].
+Desarrollado por **J.Q.S. (Zapoide)**[cite: 1, 2].
